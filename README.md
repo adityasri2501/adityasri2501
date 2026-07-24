@@ -106,7 +106,6 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/adityasri2501/adityasri2501/stats-output/stats.svg" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=adityasri2501&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://raw.githubusercontent.com/adityasri2501/adityasri2501/languages-output/languages.svg" height="150" alt="languages graph"  />
 </div>
