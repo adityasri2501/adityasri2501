@@ -114,7 +114,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/adityasri2501/adityasri2501/snake-output/snake.svg" alt="Snake animation" />
 
 ###
 
