@@ -6,7 +6,7 @@
 
 <h2 align="left">Hey, I'm Aditya Kumar Srivastava (Patty) 👋<br>I don’t just write code — I build systems with purpose.<br><br>- 🛡️ Working on defence-tech ideas like Trinetra & Indravahak  <br>- 🤖 Building AI tools, chatbots, and full-stack platforms  <br>- ⚡ Turning ideas into deployed projects, not just GitHub commits  <br><br>Mission: Use tech where it actually matters.</h2>
 
-###
+###hv
 
 <img align="right" height="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHY1cW15c3liYWtmeHE0YTA2ZGRwOGMyNTFwYXIxcHJsZTh3aGV1bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vCO45cZOE0Aw3Kkm5K/giphy.gif"  />
 
